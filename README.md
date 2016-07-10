@@ -1,6 +1,6 @@
 # Blog
 
-> This is my blog backup. Welcome to [my website](https://shakerock.me).
+> This is my blog backup. Welcome to [my website](http://shakerock.me).
 
 ## How to use
 
