@@ -10,5 +10,4 @@
 
 - Run ```hexo s``` and enjoy at ```http://localhost:4000```
 
-Thank to [Hexo](https://hexo.io/) and [NexT](http://theme-next.iissnan.com/).
-
+Thanks to [Hexo](https://hexo.io/) and [NexT](http://theme-next.iissnan.com/).
