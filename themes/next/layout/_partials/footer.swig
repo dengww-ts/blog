@@ -8,14 +8,7 @@
   </span>
 
   <div class="powered-by">
-    {{ __('footer.powered', '<a class="theme-link" href="http://hexo.io">Hexo</a>') }}
-  </div>
-
-  <div class="theme-info">
-    {{ __('footer.theme') }} -
-    <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-      NexT
-    </a>
+    {{ __('footer.powered', 'Hexo.') }}
   </div>
 </div>
 
