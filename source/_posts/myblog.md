@@ -3,7 +3,7 @@ title: myblog
 date: 2016-07-10 11:52:07
 tags:
 ---
-# Dillingeree
+# Dillingereeeess
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
